@@ -1,0 +1,48 @@
+Console Error: Failed to load resource: the server responded with a status of 400 (Bad Request)       
+----------------------------------
+Console Error: [2026-02-15T15:58:44.908Z] Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: [2026-02-15T15:58:44.910Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: Failed to load resource: net::ERR_CERT_DATE_INVALID       
+----------------------------------
+Console Error: [2026-02-15T15:58:45.275Z] Error: Failed to complete negotiation with the server: TypeError: Failed to fetch       
+----------------------------------
+Console Error: [2026-02-15T15:58:45.275Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: TypeError: Failed to fetch       
+----------------------------------
+Console Error: Failed to load resource: the server responded with a status of 504 (Gateway Timeout)       
+----------------------------------
+Console Error: [2026-02-15T15:58:48.700Z] Error: Failed to complete negotiation with the server: Error: Gateway Timeout: Status code '504'       
+----------------------------------
+Console Error: [2026-02-15T15:58:48.701Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: Error: Gateway Timeout: Status code '504'       
+----------------------------------
+Console Error: Failed to load resource: the server responded with a status of 400 (Bad Request)       
+----------------------------------
+Console Error: [2026-02-15T15:58:48.709Z] Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: [2026-02-15T15:58:48.709Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: Failed to load resource: net::ERR_CERT_DATE_INVALID       
+----------------------------------
+Console Error: [2026-02-15T16:36:47.972Z] Error: Failed to complete negotiation with the server: TypeError: Failed to fetch       
+----------------------------------
+Console Error: [2026-02-15T16:36:47.973Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: TypeError: Failed to fetch       
+----------------------------------
+Console Error: Failed to load resource: the server responded with a status of 400 (Bad Request)       
+----------------------------------
+Console Error: [2026-02-15T16:36:48.046Z] Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: [2026-02-15T16:36:48.047Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: Failed to load resource: the server responded with a status of 400 (Bad Request)       
+----------------------------------
+Console Error: [2026-02-15T16:36:50.843Z] Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: [2026-02-15T16:36:50.843Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: Error: Bad Request: Status code '400'       
+----------------------------------
+Console Error: Failed to load resource: the server responded with a status of 504 (Gateway Timeout)       
+----------------------------------
+Console Error: [2026-02-15T16:36:50.845Z] Error: Failed to complete negotiation with the server: Error: Gateway Timeout: Status code '504'       
+----------------------------------
+Console Error: [2026-02-15T16:36:50.845Z] Error: Failed to start the connection: Error: Failed to complete negotiation with the server: Error: Gateway Timeout: Status code '504'       
+----------------------------------
